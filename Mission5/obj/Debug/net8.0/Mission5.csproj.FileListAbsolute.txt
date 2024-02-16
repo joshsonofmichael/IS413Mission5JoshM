@@ -28,3 +28,4 @@
 /Users/joshuamichaelson/Documents/IS413/IS413Mission5JoshM/Mission5/obj/Debug/net8.0/Mission5.pdb
 /Users/joshuamichaelson/Documents/IS413/IS413Mission5JoshM/Mission5/obj/Debug/net8.0/Mission5.genruntimeconfig.cache
 /Users/joshuamichaelson/Documents/IS413/IS413Mission5JoshM/Mission5/obj/Debug/net8.0/ref/Mission5.dll
+/Users/joshuamichaelson/Documents/IS413/IS413Mission5JoshM/Mission5/obj/Debug/net8.0/Mission5.sourcelink.json
