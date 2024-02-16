@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Book Me";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class="container">
+        <h2 class="mt-5">Book a Session</h2>
+        <p class="lead">Welcome to my booking page!</p>
+        <p class="lead">As an uncertified personal trainer, I'm excited to offer my services to help you achieve your fitness goals at a great price!</p>
+
+        <div class="form-group mt-5 col-sm-2" style="display: flex; flex-direction: column; gap: 1rem;">
+            <label for="hours">Enter the number of hours you'd like to book:</label>
+            <input type="number" class="form-control" id="hours" placeholder="Enter hours" width="200">
+        </div>
+        
+        <button class="btn btn-primary" style="margin-top: 2rem;" id="calculateBtn">Calculate Cost</button>
+        
+        <div class="alert alert-info mt-5 col-sm-2" role="alert">
+          My hourly rate: $20/hr
+        </div>
+        
+        <div id="cost" class="mt-3"></div>
+    </div>
