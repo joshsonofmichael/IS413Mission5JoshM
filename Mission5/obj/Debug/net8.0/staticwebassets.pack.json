@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/joshuamichaelson/Documents/IS413/IS413Mission5JoshM/Mission5/wwwroot/img/barbell.jpg",
+      "PackagePath": "staticwebassets/img/barbell.jpg"
+    },
+    {
+      "Id": "/Users/joshuamichaelson/Documents/IS413/IS413Mission5JoshM/Mission5/wwwroot/img/eggsandbacon.jpg",
+      "PackagePath": "staticwebassets/img/eggsandbacon.jpg"
+    },
+    {
+      "Id": "/Users/joshuamichaelson/Documents/IS413/IS413Mission5JoshM/Mission5/wwwroot/img/personalgym.jpg",
+      "PackagePath": "staticwebassets/img/personalgym.jpg"
+    },
+    {
       "Id": "/Users/joshuamichaelson/Documents/IS413/IS413Mission5JoshM/Mission5/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

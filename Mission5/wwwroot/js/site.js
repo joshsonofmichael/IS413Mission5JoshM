@@ -8,7 +8,7 @@ $(document).ready(function () {
     var hours = $("#hours").val();
 
     // Check if hours is a valid number
-    if ($.isNumeric(hours)) {
+    if ($.isNumeric(hours) && (hours > 0)) {
       var ratePerHour = 20; // You can change this rate as per your preference
       var totalCost = hours * ratePerHour;
       $("#cost").html(
